@@ -1,0 +1,21 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# SQLite amalgamation (large file, not needed in repo)
+sqlite3.c
+sqlite3.h
+
+# Build artifacts
+build/
+bin/
